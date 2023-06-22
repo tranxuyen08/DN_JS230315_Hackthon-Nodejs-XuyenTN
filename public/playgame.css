@@ -1,0 +1,33 @@
+.play{
+  max-width: 1000px;
+  width: 100%;
+  background-color: aliceblue;
+  margin: 0 auto;
+  padding: 20px 10px;
+}
+.wrap-play{
+  width: 100%;
+}
+table{
+  width: 100%;
+  height: auto;
+}
+.count-score{
+  background-color: blue;
+  border-collapse: collapse;
+}
+.count-score td {
+  padding: 5px;
+  color: white;
+}
+input{
+  width: 90%;
+  padding: 5px;
+}
+.btn{
+  border: none;
+  color: white;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 10px;
+}

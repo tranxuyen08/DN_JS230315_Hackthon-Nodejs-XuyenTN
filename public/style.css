@@ -1,0 +1,30 @@
+.score-keeper{
+  max-width: 1000px;
+  width: 100%;
+  background-color: #bbbbbb;
+  margin: 0 auto;
+}
+.score-keeper-wrap{
+  padding: 20px 70px;
+  margin: 0 auto;
+}
+form{
+  display: grid;
+  gap: 30px;
+}
+input{
+  padding: 10px;
+}
+.btn-submit{
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  width: 100px;
+}
+#error-message{
+  color: red;
+  background-color: #edaaaa;
+  padding: 5px;
+  display: none;
+}
